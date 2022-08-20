@@ -44,6 +44,8 @@ UML类图理解
 - 工厂模式针对的是对象层面，可以将两者结合起来使用。
 - 通过不同的策略(使用文字描述策略)产生不同的处理对象。
 
+策略模式
+
 ![](https://github.com/iswyq/GOF/blob/master/img/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F.jpg)
 
 实际应用
