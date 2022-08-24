@@ -17,6 +17,7 @@ class LeiFengTest {
         student.wash();
         // 社区志愿者
         VolunteerFactory volunteerFactory = new VolunteerFactory();
+
         LeiFeng volunteer = volunteerFactory.createLeiFeng();
         volunteer.buyRice();
         volunteer.wash();
