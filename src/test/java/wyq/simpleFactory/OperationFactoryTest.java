@@ -1,4 +1,4 @@
-package wyq.factory;
+package wyq.simpleFactory;
 
 /**
  * 工厂模式测试

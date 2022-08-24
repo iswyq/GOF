@@ -1,4 +1,4 @@
-package wyq.factory;
+package wyq.simpleFactory;
 
 /**
  * 乘法运算类
